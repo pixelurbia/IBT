@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates
+END
+course.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/course.php
+END
+profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ibt/!svn/ver/3/wp-content/plugins/sfwd-lms/templates/profile.php
+END
+lesson.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/lesson.php
+END
+course_content_shortcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/course_content_shortcode.php
+END
+learndash_template_script.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/learndash_template_script.js
+END
+learndash_template_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/learndash_template_style.css
+END
+topic.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/topic.php
+END
+course_navigation_widget.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/course_navigation_widget.php
+END
+learndash_template_functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/learndash_template_functions.php
+END
+course_info_shortcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/course_info_shortcode.php
+END
+course_list_template.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/course_list_template.php
+END
+course_navigation_admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/course_navigation_admin.php
+END
+course_progress_widget.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/course_progress_widget.php
+END
+user_groups_shortcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/user_groups_shortcode.php
+END
+quiz.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/templates/quiz.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/ibt/!svn/ver/1/wp-includes/js/plupload
+END
+wp-plupload.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ibt/!svn/ver/13/wp-includes/js/plupload/wp-plupload.js
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ibt/!svn/ver/1/wp-includes/js/plupload/license.txt
+END
+wp-plupload.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ibt/!svn/ver/13/wp-includes/js/plupload/wp-plupload.min.js
+END
+plupload.silverlight.xap
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ibt/!svn/ver/1/wp-includes/js/plupload/plupload.silverlight.xap
+END
+plupload.flash.swf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ibt/!svn/ver/1/wp-includes/js/plupload/plupload.flash.swf
+END
+handlers.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ibt/!svn/ver/1/wp-includes/js/plupload/handlers.js
+END
+handlers.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ibt/!svn/ver/1/wp-includes/js/plupload/handlers.min.js
+END
+plupload.full.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ibt/!svn/ver/1/wp-includes/js/plupload/plupload.full.min.js
+END

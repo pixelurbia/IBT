@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/classes/core
+END
+class-vc-mapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/classes/core/class-vc-mapper.php
+END
+class-vc-sort.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/classes/core/class-vc-sort.php
+END
+class-vc-base.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/classes/core/class-vc-base.php
+END
+interfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/classes/core/interfaces.php
+END
+class-vc-post-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/classes/core/class-vc-post-admin.php
+END
+class-wpb-map.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/classes/core/class-wpb-map.php
+END

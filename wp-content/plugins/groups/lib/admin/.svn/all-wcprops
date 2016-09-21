@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin
+END
+groups-admin-capabilities.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-capabilities.php
+END
+groups-admin-options.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-options.php
+END
+groups-admin-groups-edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-groups-edit.php
+END
+class-groups-admin-users.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/class-groups-admin-users.php
+END
+groups-admin-groups-add.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-groups-add.php
+END
+class-groups-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/class-groups-admin.php
+END
+class-groups-admin-post-columns.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/class-groups-admin-post-columns.php
+END
+groups-admin-tree-view.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-tree-view.php
+END
+groups-admin-groups-remove.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-groups-remove.php
+END
+class-groups-admin-posts.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/class-groups-admin-posts.php
+END
+groups-admin-capabilities-edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-capabilities-edit.php
+END
+groups-admin-groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-groups.php
+END
+groups-admin-capabilities-add.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-capabilities-add.php
+END
+class-groups-admin-user-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/class-groups-admin-user-profile.php
+END
+groups-admin-capabilities-remove.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/admin/groups-admin-capabilities-remove.php
+END

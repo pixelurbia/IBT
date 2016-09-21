@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/partials
+END
+backend_editor_footer.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php
+END
+vc_welcome_block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/partials/vc_welcome_block.tpl.php
+END
+backend_controls_tab.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/partials/backend_controls_tab.tpl.php
+END
+frontend_controls.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/partials/frontend_controls.tpl.php
+END
+post_shortcodes.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/partials/post_shortcodes.tpl.php
+END
+backend_controls.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/partials/backend_controls.tpl.php
+END

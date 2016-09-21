@@ -1,0 +1,104 @@
+
+//COLOR
+$white: #fff;
+$offwhite:#90D86B;
+$grey:#f4f4f4;
+$darkgrey: #1c1c1c;
+$lightgray:#eeeeee;
+$black:#000;
+$vspurple:#752f8a;
+$vsblue:#006fc8;
+
+//IMPORT
+@import 'bourbon/bourbon';
+@import 'neat/neat';
+@import 'jkr/jkr';
+
+
+//FONTS
+$proxnova: proxima-nova;
+$prox:"proxima-nova",sans-serif;;
+@include font-face(segoeui, 'webfonts/segoeui', bold);
+$segoeui:segoeui;
+@include font-face(segoeuib, 'webfonts/segoeuib', bold);
+
+
+
+
+.cassxl {font-family:$segoeui; font-style:normal;}
+.proxnova { font-family:$segoeui; font-style:normal;}
+
+@mixin display {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+@mixin paragraph {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+html {   font-size: 62.5%; /* Sets up the Base 10 stuff */  }
+body { font-size: 14px; font-size: 1.4rem; }
+
+@mixin font-size($sizeValue: 1.6) {
+  font-size: ($sizeValue * 10) + px;
+  font-size: $sizeValue + rem;
+}
+
+// Media Query sizes  
+$phone:568px;
+$ipad:1080px;
+$horz:1370px;
+
+// @include media($phone) {}
+// @include media($ipad) {}
+
+.fancybox-close {background:url('/wp-content/themes/themize/source/fancybox_sprite.png')!important;}
+  #feedback { width:100%; padding:5px; }
+  #form-contain {width:100%; max-width:500px; display:none;
+  .addHours { 
+    input, select {width:100%!important; float:none; margin:10px 0px 10px 0px; height:40px!important; line-height:20px;}
+    }}
+
+// .selectboxit-container { margin: -7px 0px 14px 0px; float: right;}
+.hours-container.admin-view {
+  .hours-list {
+    ul {
+      li {overflow:visible;
+            ul {
+              li {overflow:visible;}
+    .hours { @include span-columns(1); border:none;}
+   .delete {  position: relative!important; right: 0px!important; }
+    span {padding-left:10px;   position: relative!important; right: 0px!important;}
+}}}}}
+#noeSelectBoxItContainer {float: right; margin: -13px 0px 12px 0px;}
+.hours-container { margin-bottom:50px; display:block; overflow:hidden;
+  a.controls {margin-right:10px;}
+.hours-list {@include span-columns(12);
+  ul { list-style-type:none!important; width: 100%;
+    li { list-style-type:none!important; width: 100%; text-align:left; margin:0px!important;
+      .closed { background:$offwhite;}
+      .open {background:$white; }
+      .heading {background:$lightgray; opacity:1!important;
+        @media screen and (max-width: $phone) {display:none;}
+        li { border-right:5px solid #f7f7f7;}
+      }
+      ul { float:none; height: 40px;  line-height: 38px; text-align: left; cursor:pointer; margin-bottom:2px; overflow:hidden;
+        @media screen and (max-width: $phone) {overflow:visible; height:auto!important;}
+        &:hover {opacity:0.8;}
+        a {padding-left:10px;}
+        span {padding-left:10px;   position: absolute; right: 30px;
+          @media screen and (max-width: $ipad) {position:relative; right:0px;}}
+        .DESC {background:url(../images/arrows_data.png) 7px 15px no-repeat; }
+        .ASC {background:url(../images/arrows_data.png) 7px -46px no-repeat; }
+        .client {@include span-columns(2);}
+        .date { @include span-columns(1.8); }
+        .task { @include span-columns(3);
+         @media screen and (max-width: $ipad) {@include span-columns(2.5);}}
+        .doi { @include span-columns(2);}
+        .sub { @include span-columns(2);}
+        .hours { @include span-columns(2); border:none;}
+        .hour-action { @include span-columns(1.7); border:none;}
+        .delete {  position: absolute; right: 30px; 
+          @media screen and (max-width: $ipad) {position:relative; right:0px;}}
+        li {float:left;   padding: 0px 10px 0px 24px; text-align:left; margin:0!important;  @include font-size(1.3); overflow:hidden; 
+        @media screen and (max-width: $phone) {float:none!important; width:100%!important; overflow:visible!important; height: 20px; line-height:0px; max-width:300px!important;} }}}}}
+}

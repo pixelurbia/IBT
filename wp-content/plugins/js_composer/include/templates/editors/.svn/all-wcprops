@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors
+END
+backend_editor.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/backend_editor.tpl.php
+END
+frontend_editor.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/frontend_editor.tpl.php
+END
+frontend_template.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/editors/frontend_template.tpl.php
+END

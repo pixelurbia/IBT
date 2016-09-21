@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ibt/!svn/ver/2/wp-content/plugins/envato-wordpress-toolkit-master/includes
+END
+class-wp-upgrader.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ibt/!svn/ver/2/wp-content/plugins/envato-wordpress-toolkit-master/includes/class-wp-upgrader.php
+END
+class-envato-backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ibt/!svn/ver/2/wp-content/plugins/envato-wordpress-toolkit-master/includes/class-envato-backup.php
+END
+class-envato-api.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/2/wp-content/plugins/envato-wordpress-toolkit-master/includes/class-envato-api.php
+END
+class-github-updater.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ibt/!svn/ver/2/wp-content/plugins/envato-wordpress-toolkit-master/includes/class-github-updater.php
+END

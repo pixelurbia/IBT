@@ -1,0 +1,331 @@
+/*-----------------------------------------------------------------------------------*/
+/*	Vertical  Header
+/*-----------------------------------------------------------------------------------*/
+
+.vertical-header .header .container {
+	width: 100%;
+	padding: 0px 0px 0px 0px !important;
+}
+.vertical-header .header {
+	position: absolute !important;
+	height: 100%;
+	width: 280px;
+}
+.floating-layout div[data-sticky='enable'] { 
+	position: fixed !important;
+	top: 0;
+}
+.vertical-header div[data-sticky='enable'] { 
+	position: fixed !important;
+	top: 0;
+}
+.admin-bar .vertical-header div[data-sticky='enable'] { 
+	top: 32px;
+}
+.vertical-header .logo {
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	-webkit-transform: none;
+	-ms-transform: none;
+	transform: none;
+	position: static;
+	text-align: center;
+}
+.vertical-header .header-navigation {
+	display: block;
+	width: 100%;
+	float: none;
+}
+.vertical-header .col-md-12 {
+	position: static;
+}
+.vertical-header .navigation li {
+	display: block;
+	box-sizing: content-box;
+	margin-left: 0px;
+}
+.vertical-header .navigation li:last-child a {
+	border-bottom: none;
+}
+.vertical-header .dropdown {
+	border-top: 0px !important;
+}
+.vertical-header  .dropdown > .sub-menu {
+	top: 0;
+}
+.vertical-header .mega-menu {
+	position: relative !important;
+}
+.vertical-header .mega-menu-4col > .sub-menu, .vertical-header .mega-menu-5col > .sub-menu {
+	width: 800px !important;
+}
+.vertical-header .mega-menu-4col > .sub-menu
+.vertical-header .dropdown > .sub-menu > li a {
+	border-bottom: 0px;
+}
+.vertical-header .layer-slider {
+	padding-top: 0px !important;
+}
+.vertical-header .ls-wp-fullwidth-helper, .vertical-header .ls-fullwidth {
+	width: 100% !important;
+	left: auto !important;
+	right: auto !important;
+}
+.vertical-header .ls-wp-fullwidth-container, .vertical-header .ls-wp-fullwidth-helper, .vertical-header .ls-container, .vertical-header .ls-container * {
+	box-sizing: border-box !important;
+	-moz-box-sizing: border-box !important;
+	-webkit-box-sizing: border-box !important;
+}
+.vertical-header .container {
+	width: 100% !important;
+}
+.vertical-header .content-container {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.vertical-header .navigation .purchase-button {
+	width: 200px;
+	display: block;
+	margin-top: 14px;
+	margin-bottom: 14px;
+}
+.vertical-header .navigation-center .purchase-button {
+	margin-left: auto;
+	margin-right: auto;
+}
+.vertical-header .navigation-right .purchase-button {
+	margin-left: auto;
+	margin-right: 30px;
+}
+.vertical-header .navigation-left .purchase-button {
+	margin-left: 30px;
+	margin-right: auto;
+}
+.vertical-header .navigation > li > a {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.vertical-header .navigation .purchase-button:after {
+	display: none;
+}
+.vertical-header .navigation-right .navigation > li > a {
+	text-align: right;
+}
+.vertical-header .navigation-left .navigation > li > a {
+	text-align: left;
+}
+.vertical-header .navigation-right .logo {
+	text-align: right;
+}
+.vertical-header .navigation-left .logo {
+	text-align: left;
+}
+.vertical-header .navigation-center .navigation > li > a {
+	text-align: center;
+}
+.vertical-header .navigation-center .logo {
+	text-align: center;
+}
+.vertical-header .logo-text {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.vertical-header .navigation-search {
+	margin-top: 30px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.vertical-header .navigation-search form, .vertical-header .navigation-search input {
+	width: 100%;
+}
+/*-----------------------------------------------------------------------------------*/
+/*	Verticle Header RIGHT
+/*-----------------------------------------------------------------------------------*/
+
+.layout-right {
+	padding-right: 280px;
+}
+.layout-right .rainbow-bar, .layout-right .header {
+	right: 0;
+	left: auto;
+}
+.layout-right .dropdown > .sub-menu {
+	left: auto !important;
+	right: 280px !important;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	Verticle Header LEFT
+/*-----------------------------------------------------------------------------------*/
+
+.layout-left {
+	padding-left: 280px;
+}
+.layout-left .rainbow-bar, .layout-left .header {
+	left: 0;
+}
+.layout-left .dropdown > .sub-menu {
+	left: 280px !important;
+	right: auto !important;
+}
+.layout-left .navigation-search {
+	padding-left: 30px;
+}
+.layout-left .header {
+	margin-left: 0px;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	Vertical Floating layout
+/*-----------------------------------------------------------------------------------*/
+
+.floating-layout {
+	margin-left: auto;
+	margin-right: auto;
+	overflow: visible;
+}
+.floating-layout .header  {
+	top: 0;
+	height: auto;
+	padding-bottom: 30px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	position: absolute !important;
+}
+.floating-layout.vertical-header {
+	position: relative;
+}
+.floating-layout.layout-left .header  {
+	left: 0;
+}
+.floating-layout.layout-right .header  {
+	right: 0;
+}
+.floating-layout footer {
+	padding-right: 0px;
+	padding-left: 0px;
+	position: absolute;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	Boxed Layout
+/*-----------------------------------------------------------------------------------*/
+
+.page-boxed {
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	box-shadow: 8px 0 5px -6px rgba(0, 0, 0, 0.06), -8px 0 5px -6px rgba(0, 0, 0, 0.06), 0 5px 35px -3px rgba(0, 0, 0, 0.2);
+}
+.page-boxed .header > .container {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+/*-----------------------------------------------------------------------------------*/
+/*	Boxed SIDE LAYOUT
+/*-----------------------------------------------------------------------------------*/
+
+.page-boxed.vertical-header .header {
+	width: 280px;
+	top: 0px !important;
+}
+.page-boxed.layout-left .header  {
+	left: 0;
+}
+.page-boxed.layout-right .header  {
+	right: 0;
+}
+.page-boxed.vertical-header {
+	position: relative;
+}
+.page-boxed.vertical-header .header {
+	position: absolute !important;
+}
+.page-boxed.vertical-header .sticky-wrapper {
+	height: 100% !important;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	Bottom LAYOUT
+/*-----------------------------------------------------------------------------------*/
+
+.layout-bottom .header {
+	position: fixed;
+	bottom: 0px;
+	box-shadow: 8px 0 5px 4px rgba(0, 0, 0, 0.04), -8px 0 5px -6px rgba(0, 0, 0, 0.09), 0 5px 5px -3px rgba(0, 0, 0, 0.09);
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	Freefloating TOP LAYOUT
+/*-----------------------------------------------------------------------------------*/
+
+.freefloating-top .header {
+	max-width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.17);
+	-moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.17);
+	-o-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.17);
+	-webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.17);
+}
+.freefloating-top .purchase-button {
+	margin-right: 15px;
+}
+.freefloating-top .sticky-wrapper {
+	padding-top: 30px;
+	left: 0;
+	right: 0;
+}
+.freefloating-top .stuck {
+	margin-top: 30px;
+}
+.freefloating-top .header-shrink .navigation .purchase-button {
+	padding: 11px 12px 11px 12px !important;
+}
+.freefloating-top .navigation-left .logo {
+	margin-right: 15px;
+}
+.freefloating-top .navigation-right .logo {
+	margin-left: 15px;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	Freefloating LEFT LAYOUT
+/*-----------------------------------------------------------------------------------*/
+
+.freefloating-side .header { 
+	top: 0 !important;
+	margin-top: 35px;
+}
+.freefloating-side.layout-left div[data-sticky='enable'], .freefloating-side.layout-right div[data-sticky='enable'] {
+	position: absolute !important;
+}
+.freefloating-side.layout-left .stuck[data-sticky='enable'], .freefloating-side.layout-right .stuck[data-sticky='enable'] {
+	position: fixed !important;
+	/*top: 0px !important;*/
+}
+.freefloating-side .sticky-wrapper {
+	height: auto !important;
+}
+.admin-bar .freefloating-side.layout-left .stuck[data-sticky='enable'] {
+	top: 30px !important;
+}
+.floating-layout .widget-footer, .floating-layout .copyright-footer, .floating-layout .menu-footer, .floating-layout .rainbow-bar, .floating-layout .sitewide-alert, .freefloating-top .sitewide-alert, .floating-layout .header-contact-bar, .freefloating-top .header-contact-bar, .freefloating-top .rainbow-bar {
+	box-sizing: content-box !important;
+	-moz-box-sizing: content-box !important;
+	-webkit-box-sizing: content-box !important;
+	margin-left: -150% !important;
+	margin-right: auto !important;
+    padding-left: 150% !important;
+    padding-right: 150% !important;
+    width: 100%;
+    position: relative;
+}

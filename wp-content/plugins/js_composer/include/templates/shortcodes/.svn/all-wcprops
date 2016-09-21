@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes
+END
+vc_images_carousel.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_images_carousel.php
+END
+vc_gitem_post_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_post_data.php
+END
+vc_row.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_row.php
+END
+vc_gmaps.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gmaps.php
+END
+vc_empty_space.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_empty_space.php
+END
+vc_flickr.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_flickr.php
+END
+vc_button.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_button.php
+END
+vc_carousel.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_carousel.php
+END
+vc_basic_grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_basic_grid.php
+END
+vc_wp_categories.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_categories.php
+END
+vc_wp_meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_meta.php
+END
+vc_gitem_row.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_row.php
+END
+vc_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column.php
+END
+vc_gallery.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gallery.php
+END
+vc_cta_button.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_cta_button.php
+END
+vc_tab.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_tab.php
+END
+vc_gitem_image.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_image.php
+END
+vc_wp_tagcloud.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_tagcloud.php
+END
+vc_raw_html.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_raw_html.php
+END
+vc_pie.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_pie.php
+END
+vc_wp_posts.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_posts.php
+END
+vc_toggle_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_toggle_old.php
+END
+vc_toggle.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_toggle.php
+END
+vc_gitem_animated_block.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_animated_block.php
+END
+vc_cta_button2.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_cta_button2.php
+END
+vc_accordion_tab.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_accordion_tab.php
+END
+vc_custom_heading.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_custom_heading.php
+END
+vc_basic_grid_filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_basic_grid_filter.php
+END
+vc_button2.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_button2.php
+END
+vc_column_text.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php
+END
+vc_gitem_col.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_col.php
+END
+vc_facebook.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_facebook.php
+END
+vc_posts_slider.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_posts_slider.php
+END
+vc_widget_sidebar.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_widget_sidebar.php
+END
+vc_posts_grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_posts_grid.php
+END
+vc_wp_rss.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_rss.php
+END
+vc_wp_calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_calendar.php
+END
+vc_gitem_block.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_block.php
+END
+vc_items.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_items.php
+END
+vc_message_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_message_old.php
+END
+vc_message.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_message.php
+END
+vc_teaser_grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_teaser_grid.php
+END
+vc_progress_bar.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_progress_bar.php
+END
+vc_wp_text.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_text.php
+END
+vc_tweetmeme.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_tweetmeme.php
+END
+rev_slider_vc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/rev_slider_vc.php
+END
+vc_separator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_separator.php
+END
+vc_accordion.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_accordion.php
+END
+vc_twitter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_twitter.php
+END
+vc_gitem_zone_c.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_zone_c.php
+END
+vc_text_separator.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_text_separator.php
+END
+vc_wp_custommenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_custommenu.php
+END
+vc_gitem.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem.php
+END
+vc_wp_pages.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_pages.php
+END
+vc_video.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_video.php
+END
+vc_wp_archives.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_archives.php
+END
+vc_wp_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_search.php
+END
+vc_pinterest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_pinterest.php
+END
+vc_custom_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_custom_field.php
+END
+layerslider_vc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/layerslider_vc.php
+END
+vc_googleplus.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_googleplus.php
+END
+vc_gitem_post_meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_post_meta.php
+END
+vc_single_image.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_single_image.php
+END
+vc_wp_links.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_links.php
+END
+vc_icon.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_icon.php
+END
+vc_tabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_tabs.php
+END
+vc_wp_recentcomments.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_wp_recentcomments.php
+END
+vc_item.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_item.php
+END
+vc_gitem_zone_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_zone_old.php
+END
+vc_gitem_zone.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/2/wp-content/plugins/js_composer/include/templates/shortcodes/vc_gitem_zone.php
+END

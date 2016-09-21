@@ -1,0 +1,226 @@
+.edd_downloads_list {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.edd_download_inner {
+	padding: 30px 30px 30px 30px;
+	background: #fff;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+}
+.edd_download_image {
+	margin-bottom: 30px;
+}
+.edd_download_image img {
+	width: 100%;
+	height: auto;
+}
+.edd_download_title a1 {
+	font-weight: 500;
+}
+.entry-image .product-buttons {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+.entry-image .product-buttons a {
+	background-color: #222528 !important;
+	border-radius: 0px;
+}
+.entry-image .product-buttons a:hover {
+	background-color: #29ABE2 !important;
+}
+.single-download .product-price {
+		border-bottom: 1px solid #e1e1e1;
+		padding-bottom: 12px;
+		margin-bottom: 30px;
+}
+#edd_checkout_wrap {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background: #fff;
+	padding: 30px 30px 30px 30px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.17);
+}
+#edd_checkout_cart {
+	margin-bottom: 0px;
+}
+#edd_checkout_cart .edd_cart_header_row th {
+	background: #fff;
+	padding: 1.387em;
+}
+#edd_checkout_cart {
+	width: 100%;
+}
+#edd_checkout_cart td, #edd_checkout_cart th {
+	text-align: left;
+	border: none;
+	margin-bottom: 22px;
+	padding-bottom: 22px;
+}
+.edd_checkout_cart_item_title {
+	display: inline-block;
+	width: 100%;
+}
+.edd_checkout_price {
+	font-weight: 700;
+}
+#edd_checkout_cart .edd_cart_item td {
+	padding: 12px 0px 12px 0px !important;
+	border-bottom: 1px solid #e1e1e1 !important;
+}
+#edd_checkout_cart:first-child .edd_cart_item td {
+	padding-top: 0px !important;
+	border-bottom: 1px solid #e1e1e1 !important;
+}
+#edd_checkout_cart:last-child .edd_cart_item td {
+	padding-bottom: 0px !important;
+	border-bottom: 0px !important;
+}
+.edd_form fieldset {
+	border: 0px !important;
+	padding: 0px 0px 0px 0px !important;
+}
+#edd_checkout_user_info legend {
+	display: none;
+}
+#edd_checkout_form_wrap input.edd-input, #edd_checkout_form_wrap textarea.edd-input {
+	width: 100%;
+}
+#edd_checkout_cart_wrap {
+	background: #f7f7f7;
+	padding: 22px 22px 22px 22px;
+	border: 1px solid #e1e1e1;
+	margin-bottom: 30px;
+	font-size: 12px;
+}
+#edd_checkout_cart td {
+	background: none !important;
+}
+#edd_purchase_submit .button {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	font-size: 11px;
+	padding: 12px 16px 12px 16px;
+	width: 100%;
+}
+#edd_checkout_form_wrap fieldset:last-child {
+	margin-bottom: 0px;
+}
+.edd_clearfix:after {
+	display: none;
+}
+.single-download .marketing-button {
+	width: 100%;
+	color: #fff;
+	background-color: #29ABE2;
+	border: 1px solid #1d789e;
+}
+.single-download .entry section {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #e1e1e1;
+}
+.single-download .entry section:last-child {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	border-bottom: 0px;
+}
+.single-download .entry-image {
+	margin-bottom: 30px;
+}
+
+.edd_price_options ul li {
+	padding: 12px 12px 12px 12px !important;
+	border-bottom: 1px solid #e1e1e1;
+	font-size: 13px;
+}
+.edd_price_options ul li:last-child {
+	padding: 12px 12px 12px 12px !important;
+	border-bottom: 0px solid;
+	font-size: 13px;
+}
+.modal-variable-pricing .modal-dialog {
+	width: 400px;
+	text-align: center;
+}
+.modal-variable-pricing .modal-body {
+	padding-top: 60px;
+}
+.edd_download_purchase_form .edd_price_options .edd_price_option_price {
+	font-weight: 600;
+}
+.single-download .edd_download_purchase_form {
+	margin-bottom: 30px;
+}
+.edd_download_purchase_form .edd_price_options .edd_price_option_name {
+	margin-left: 6px;
+}
+.edd-cart-added-alert {
+	color: #567622;
+	left: 0;
+	right: 0;
+	font-size: 12px;
+	margin-top: 0px;
+}
+.edd-cart-added-alert .edd-icon-ok {
+	display: none;
+}
+#edd_purchase_receipt {
+	margin-bottom: 0px;
+}
+.edd-purchase-receipt-container {
+	margin-top: 30px;
+}
+table#edd_purchase_receipt_products .edd_purchase_receipt_product_name {
+	font-weight: 400;
+}
+table#edd_purchase_receipt_products li {
+	list-style: none;
+	margin: 0px 0px 0px 0px;
+	border-left: 3px solid #e1e1e1;
+	padding-left: 12px;
+	margin-top: 6px;
+}
+#edd_purchase_receipt_products td {
+	border-bottom: 1px solid #e1e1e1;
+}
+table#edd_purchase_receipt ul, table#edd_purchase_receipt_products ul {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.edd-purchase-history {
+	margin-top: 30px;
+}
+#edd_user_history {
+	border: 1px solid #ddd;
+	margin-bottom: 0px;
+}
+#edd_user_history td, #edd_user_history th {
+	border-bottom: 0px;
+}
+.edd-container {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#edd_purchase_submit .edd-cart-ajax {
+	display: none;
+}
+.edd_download_full_content, .edd_download_excerpt {
+	margin-bottom: 22px;
+}
+.buy-button {
+	letter-spacing: 0.5px;
+}
+.buy-button .marketing-button-text {
+	font-weight: 300;
+}
+.edd-label, .edd-description {
+	display: none !important;
+}

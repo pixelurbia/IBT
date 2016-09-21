@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress
+END
+form-protected.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-protected.php
+END
+form-reply.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-reply.php
+END
+feedback-no-topics.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/feedback-no-topics.php
+END
+feedback-no-replies.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/feedback-no-replies.php
+END
+form-user-register.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-user-register.php
+END
+content-single-view.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-single-view.php
+END
+form-user-roles.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-user-roles.php
+END
+form-user-lost-pass.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-user-lost-pass.php
+END
+loop-search-forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-search-forum.php
+END
+loop-single-topic.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-single-topic.php
+END
+feedback-no-forums.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/feedback-no-forums.php
+END
+content-single-topic-lead.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-single-topic-lead.php
+END
+loop-replies.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-replies.php
+END
+loop-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-search.php
+END
+loop-single-forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-single-forum.php
+END
+user-favorites.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/user-favorites.php
+END
+form-topic.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-topic.php
+END
+content-single-reply.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-single-reply.php
+END
+user-topics-created.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/user-topics-created.php
+END
+user-replies-created.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/user-replies-created.php
+END
+form-forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-forum.php
+END
+form-anonymous.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-anonymous.php
+END
+pagination-replies.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/pagination-replies.php
+END
+pagination-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/pagination-search.php
+END
+feedback-no-access.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/feedback-no-access.php
+END
+form-reply-move.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-reply-move.php
+END
+feedback-no-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/feedback-no-search.php
+END
+user-details.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/user-details.php
+END
+form-user-edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-user-edit.php
+END
+content-statistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-statistics.php
+END
+content-archive-topic.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-archive-topic.php
+END
+content-single-topic.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-single-topic.php
+END
+content-single-user.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-single-user.php
+END
+loop-search-reply.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-search-reply.php
+END
+form-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-search.php
+END
+form-topic-split.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-topic-split.php
+END
+loop-topics.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-topics.php
+END
+form-topic-merge.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-topic-merge.php
+END
+user-profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/user-profile.php
+END
+content-search.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-search.php
+END
+content-archive-forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-archive-forum.php
+END
+content-single-forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-single-forum.php
+END
+loop-single-reply.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-single-reply.php
+END
+content-topic-tag-edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/content-topic-tag-edit.php
+END
+loop-forums.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-forums.php
+END
+user-subscriptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/user-subscriptions.php
+END
+form-user-login.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-user-login.php
+END
+feedback-logged-in.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/feedback-logged-in.php
+END
+form-topic-tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/form-topic-tag.php
+END
+loop-search-topic.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/loop-search-topic.php
+END
+pagination-topics.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/13/wp-content/plugins/bbpress/templates/default/bbpress/pagination-topics.php
+END

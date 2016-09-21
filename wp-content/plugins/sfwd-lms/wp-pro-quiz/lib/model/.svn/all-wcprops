@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model
+END
+WpProQuiz_Model_StatisticRefMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_StatisticRefMapper.php
+END
+WpProQuiz_Model_StatisticUserMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_StatisticUserMapper.php
+END
+WpProQuiz_Model_Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Template.php
+END
+WpProQuiz_Model_QuestionMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_QuestionMapper.php
+END
+WpProQuiz_Model_StatisticMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_StatisticMapper.php
+END
+WpProQuiz_Model_Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Category.php
+END
+WpProQuiz_Model_TemplateMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_TemplateMapper.php
+END
+WpProQuiz_Model_GlobalSettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_GlobalSettings.php
+END
+WpProQuiz_Model_CategoryMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_CategoryMapper.php
+END
+WpProQuiz_Model_StatisticFormOverview.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_StatisticFormOverview.php
+END
+WpProQuiz_Model_Mapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Mapper.php
+END
+WpProQuiz_Model_AnswerTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_AnswerTypes.php
+END
+WpProQuiz_Model_StatisticRefModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_StatisticRefModel.php
+END
+WpProQuiz_Model_PrerequisiteMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_PrerequisiteMapper.php
+END
+WpProQuiz_Model_GlobalSettingsMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_GlobalSettingsMapper.php
+END
+WpProQuiz_Model_Quiz.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Quiz.php
+END
+WpProQuiz_Model_Lock.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Lock.php
+END
+WpProQuiz_Model_StatisticHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_StatisticHistory.php
+END
+WpProQuiz_Model_LockMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_LockMapper.php
+END
+WpProQuiz_Model_QuizMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_QuizMapper.php
+END
+WpProQuiz_Model_StatisticOverview.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_StatisticOverview.php
+END
+WpProQuiz_Model_Toplist.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Toplist.php
+END
+WpProQuiz_Model_Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Model.php
+END
+WpProQuiz_Model_Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Form.php
+END
+WpProQuiz_Model_ToplistMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_ToplistMapper.php
+END
+WpProQuiz_Model_StatisticUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_StatisticUser.php
+END
+WpProQuiz_Model_Question.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Question.php
+END
+WpProQuiz_Model_Statistic.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_Statistic.php
+END
+WpProQuiz_Model_FormMapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ibt/!svn/ver/2/wp-content/plugins/sfwd-lms/wp-pro-quiz/lib/model/WpProQuiz_Model_FormMapper.php
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework
+END
+db.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/db.class.php
+END
+settings_product_sidebar.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/settings_product_sidebar.class.php
+END
+include_framework.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/include_framework.php
+END
+settings.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/settings.class.php
+END
+settings_product.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/settings_product.class.php
+END
+zip.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/zip.class.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/index.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/functions.php
+END
+em_integration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/em_integration.class.php
+END
+aq_resizer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/aq_resizer.class.php
+END
+settings_advances.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/settings_advances.class.php
+END
+cssparser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/cssparser.class.php
+END
+elements_base.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/elements_base.class.php
+END
+functions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/functions.class.php
+END
+base.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/base.class.php
+END
+image_view.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/image_view.class.php
+END
+wpml.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/wpml.class.php
+END
+functions_wordpress.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/functions_wordpress.class.php
+END
+settings_output.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/settings_output.class.php
+END
+base_front.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/base_front.class.php
+END
+base_admin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php
+END
+update.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ibt/!svn/ver/2/wp-content/plugins/revslider/inc_php/framework/update.class.php
+END

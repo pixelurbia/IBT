@@ -1,0 +1,7 @@
+* {
+direction:rtl;
+unicode-bidi:embed;
+}
+.logo {
+	text-align: left;
+}

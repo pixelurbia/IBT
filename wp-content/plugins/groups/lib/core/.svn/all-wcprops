@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core
+END
+class-groups-pagination.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-pagination.php
+END
+class-groups-group-capability.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-group-capability.php
+END
+class-groups-options.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-options.php
+END
+interface-i-capable.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/interface-i-capable.php
+END
+class-groups-group.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-group.php
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/constants.php
+END
+class-groups-user-capability.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-user-capability.php
+END
+class-groups-user.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-user.php
+END
+class-groups-capability.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-capability.php
+END
+class-groups-controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-controller.php
+END
+class-groups-utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-utility.php
+END
+wp-init.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/wp-init.php
+END
+class-groups-help.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-help.php
+END
+class-groups-user-group.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ibt/!svn/ver/11/wp-content/plugins/groups/lib/core/class-groups-user-group.php
+END
